@@ -1,0 +1,362 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+/* Top Container */
+.top-container{
+  background-color: #B8FFF9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.name {
+   margin-top: 0;
+   font-family: 'Sacramento', cursive;
+   font-size: 70px;
+}
+
+.paragraph {
+  font-size: 20px;
+  position: absolute;
+  top: 9.5rem;
+  right: 30rem;
+}
+
+.profile-describtion {
+  font-size: 20px;
+}
+
+
+.cute {
+  position: absolute;
+  right: 90px;
+  top: 185px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 280px;
+  top: 55px;
+}
+
+.mountain {
+  width: 100%;
+  height: 500px;
+  border-radius: 10px;
+}
+
+
+.line {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #F0F0F0;
+}
+
+/* Middle Container */
+
+.middle-container {
+   text-align: center;
+   position: relative;
+   padding-top: 100px;
+
+}
+
+.skill {
+  text-align: center;
+}
+
+.web-development {
+  width: 100px;
+  height: 100px;
+
+}
+
+
+.gride {
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+  color: #45b29a;
+
+}
+
+
+.lorem {
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+}
+
+
+.what-can {
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  color: #1e836c;
+}
+
+.design {
+  font-size: 24px;
+  color: #45b29a;
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  top: 37rem;
+  right: 420px;
+}
+
+.codingboy {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 34em;
+  left: 150px;
+}
+
+.goals {
+  font-size: 19px;
+  position: absolute;
+  top: 33.5em;
+  right: 18em;
+}
+
+.coder {
+  height: 170px;
+  width: 200px;
+  position: absolute;
+  top: 37em;
+  left: 28em;
+}
+
+
+.dott {
+  width: 8%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #ECECEC;
+  position: absolute;
+  left: 23em;
+  top: 42em;
+}
+
+.center {
+  text-align: center;
+  position: relative;
+  padding-top: 200px;
+}
+
+.need {
+  font-size: 24px;
+  color: #45b29a;
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  top: 35em;
+  left: 10em;
+}
+
+.website-para {
+  font-size: 20px;
+  position: absolute;
+  top: 44em;
+  left: 10em;
+}
+
+.website-animation {
+  height: 150px;
+  width: 190px;
+  border-radius: 100px;
+  position: absolute;
+  top: 53em;
+  right: 30em;
+}
+
+
+.svg-file {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: 53em;
+  right: 13em;
+}
+
+.center-line {
+  width: 8%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #ECECEC;
+  position: absolute;
+  right: 24.5em;
+  top: 58em;
+}
+
+.center {
+  text-align: center;
+  position: relative;
+  padding-top: 200px;
+}
+
+.line-in-center {
+  width: 8%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #ECECEC;
+  position: absolute;
+  top: 33em;
+  left: 36em;
+}
+
+.line-website {
+  width: 8%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #ECECEC;
+  position: absolute;
+  top: 57.5rem;
+  right: 24rem;
+
+}
+
+
+.bottom-container {
+  text-align: center;
+  position: relative;
+  padding-top: 22em;
+}
+
+.help {
+  font-size: 3em;
+  color: #1e836c;
+  font-weight: 500;
+  position: absolute;
+  left: 11.4em;
+}
+
+.freelance {
+  padding-top: 2.3em;
+  font-size: 2em;
+  color: #1e836c;
+}
+
+.project {
+  font-size: 22px;
+}
+
+.button {
+  border: none;
+  background-color: #45b29a;
+  padding: 15px 2em;
+  border-radius: 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-bottom: 3em;
+}
+
+a {
+  text-decoration: none;
+  color: #1b7f69;
+}
+
+
+.button:hover {
+  background-color: #545454;
+
+}
+
+.footer {
+  padding: 3em 0;
+  background-color: #c5ded7;
+  height: 120px;
+  width: 100%;
+}
+
+.twitter {
+  font-size: 20px;
+  padding-right: 4rem;
+}
+
+.facebook {
+  font-size: 20px;
+  padding-right: 4rem;
+}
+
+.hire-me {
+  font-size: 20px;
+}
+
+
+.fotter-end {
+   padding-top: 1.5rem;
+}
+
+
+@media (min-width: 350px) and (max-width: 1280px)  {
+  /* Middle Container */
+  .middle-container {
+    position: relative;
+  }
+
+  .design {
+    top: 42rem;
+    right: 5rem;
+  }
+
+  .goals {
+    top: 44.5rem;
+    right: 2.5rem;
+    font-size: 2rem;
+  }
+
+  .codingboy {
+    top: 32rem;
+    left: 3rem;
+  }
+
+  .dott {
+    width: 15%;
+    top: 40.5rem;
+    left: 17rem;
+  }
+
+  .coder {
+    top: 35.5rem;
+    left: 23rem;
+  }
+
+ .need {
+   top: 62rem;
+   left: 5rem;
+ }
+
+ .website-para {
+   top: 64rem;
+   left: 4rem;
+   font-size: 2rem;
+ }
+
+.help {
+  top: 23rem;
+  left: 24rem;
+}
+
+.line-in-center {
+  top: 36rem;
+  left: 25rem;
+  border-color: black;
+}
+
+
+}
